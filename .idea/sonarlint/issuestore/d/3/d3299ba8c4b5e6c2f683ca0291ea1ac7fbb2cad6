@@ -1,0 +1,41 @@
+
+]
+java:S1220""Move this file to a named package.8›®È²ç1J$3c5d812a-86b7-4881-970a-842177ebb29c
+„
+java:S1854"<Remove this useless assignment to local variable "integers".(—ÒøÂþÿÿÿÿ8¢®È²ç1J$fdf0be5f-5170-423f-802c-0652e9c94400
+r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8¤®È²ç1J$a4021629-c69b-4901-a1eb-20e0868ad00f
+u
+java:S1481"-Remove this unused "integers" local variable.(—ÒøÂþÿÿÿÿ8¦®È²ç1J$791015bc-e69b-4921-b5a9-935ae3ba9ec9
+~	java:S125	"<This block of commented-out lines of code should be removed.(Ï†ÛÅ8ª®È²ç1J$74841fbf-8104-464b-b8cc-aef1b5761f78
+~	java:S125"<This block of commented-out lines of code should be removed.(ßÊÀ8«®È²ç1J$d2438e75-bcb8-4232-9e1a-8d25123b3e56
+m	java:S106"+Replace this use of System.out by a logger.(‹÷÷ 8«®È²ç1J$cd11f9c3-265f-4bd7-bda8-ad13178df467
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8¬®È²ç1J$c7caf217-6de7-4790-8360-95f11181f536
+r	java:S106$"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8­®È²ç1J$c9034f5e-b9fa-455e-a006-5ee0e4acd01f
+r	java:S106+"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8­®È²ç1J$c90a27c1-dbd2-44ff-a051-57e60e633a3c
+l	java:S106/"+Replace this use of System.out by a logger.(€ÕÉ8®®È²ç1J$ae48fbd6-8bd3-4e23-9a3a-9ea6f05fdb20
+s
+java:S22014"+The return value of "collect" must be used.(£ÕñÎûÿÿÿÿ8¯®È²ç1J$74c60dd9-4017-4dcf-827d-002383d5655b
+m	java:S1065"+Replace this use of System.out by a logger.(¼ƒÂ€8°®È²ç1J$2a14c1a7-58fb-4c82-b6ba-c4f50b70639e
+r	java:S106:"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8°®È²ç1J$b71bd219-ff40-4979-aa3f-743d202d0c89
+r	java:S106@"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8±®È²ç1J$7915aeb7-64f1-42b1-8266-fb77cc836780
+r	java:S106H"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8±®È²ç1J$bf726234-7cf2-490b-9fed-7db95f08de56
+r	java:S106O"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8²®È²ç1J$c23e7120-201d-4769-9de9-7f2e7c834393
+r	java:S106U"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8³®È²ç1J$f32d8cc7-30d5-4435-bf04-34633d76c324
+w
+java:S1144"4Remove this unused private "printAllNumbers" method.(ïùæ»8´®È²ç1J$062401bf-9bc7-47e4-a535-84ce7f48039d
+x
+java:S1144"5Remove this unused private "printEvenNumbers" method.(íÇ™¦8´®È²ç1J$330af4de-96e7-4190-838f-153e02582534
+w
+java:S1144&"4Remove this unused private "printOddNumbers" method.(õ—öý8µ®È²ç1J$96940360-306d-4c38-96d3-fb21ce534101
+s
+java:S1144-"+Remove this unused private "course" method.(’ýòŽûÿÿÿÿ8µ®È²ç1J$e3594e44-23fc-4ac8-b580-47cf37001ada
+v
+java:S11441"4Remove this unused private "printAllCourses" method.(ìã¦q8µ®È²ç1J$24c5f64c-8e19-4804-a1b2-24c750470800
+{
+java:S11447"3Remove this unused private "courseContains" method.( –ûïøÿÿÿÿ8µ®È²ç1J$44e52cc6-8046-4a4a-804f-4c0b11d00f79
+y
+java:S1144<"1Remove this unused private "courseLength" method.(ù—þùÿÿÿÿ8µ®È²ç1J$00dc4faa-6809-42d5-acf8-924cb366b40d
+€
+java:S1144C"=Remove this unused private "printSquareOfEvenNumbers" method.(¤Çµ¾8µ®È²ç1J$a8892be8-b217-4e82-ae57-1b345feb2ca0
+ƒ
+java:S1144J";Remove this unused private "printCubesOfOddNumbers" method.(Ýºì£øÿÿÿÿ8µ®È²ç1J$90afc04b-096d-4356-b8e5-ac79b817acbf

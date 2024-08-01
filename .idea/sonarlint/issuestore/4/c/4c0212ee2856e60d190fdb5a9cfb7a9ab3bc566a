@@ -1,0 +1,10 @@
+
+]
+java:S1220""Move this file to a named package.8Ì½ØÑæ1J$84f29aba-9f80-4299-9b9a-883764cbc14f
+r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8Ô½ØÑæ1J$4818086e-5727-4e41-82dd-1f34d2564e84
+~	java:S125"<This block of commented-out lines of code should be removed.(Ï†ÛÅ8Ü¦ÝÑæ1J$916083c4-b7bc-4c60-b818-012c9a6b21ea
+r	java:S106"+Replace this use of System.out by a logger.(·ùßóýÿÿÿÿ8Õ½ØÑæ1J$6797683f-fc23-4220-9558-d5b21477de93
+~	java:S125"<This block of commented-out lines of code should be removed.(±ÞÎ‚8×½ØÑæ1J$d8d60292-b35d-49be-a69b-25134a9de41c
+L	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8ûžßÑæ1
+w
+java:S1144"4Remove this unused private "printAllNumbers" method.(ïùæ»8à¦ÝÑæ1J$f602a778-05c2-4925-8c1f-439f450147fd
